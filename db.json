@@ -14,6 +14,7 @@
         { "id": 12, "name": "Ira!", "genre": "Rock", "urlImg": "https://www.vagalume.com.br/ira/images/ira.jpg" },
         { "id": 13, "name": "Rebelde", "genre": "Pop", "urlImg": "https://www.vagalume.com.br/rbd/images/rbd.jpg" },
         { "id": 14, "name": "Red Hot Chilli Peppers", "genre": "Rock", "urlImg": "https://www.vagalume.com.br/red-hot-chili-peppers/images/red-hot-chili-peppers.jpg" },
-        { "id": 15, "name": "Skank", "genre": "Rock", "urlImg": "https://www.vagalume.com.br/skank/images/skank.jpg" }
+        { "id": 15, "name": "Skank", "genre": "Rock", "urlImg": "https://www.vagalume.com.br/skank/images/skank.jpg" },
+        { "id": 16, "name": "Ed Sheeran", "genre": "Pop", "urlImg": "https://www.vagalume.com.br/ed-sheeran/images/ed-sheeran.jpg" }
     ]
 }
